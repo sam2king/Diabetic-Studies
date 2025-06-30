@@ -1,0 +1,1226 @@
+ConditionsID,Desc
+1,Type 2 Diabetes Mellitus
+2,Systemic Arterial Hypertension
+3,Hypertension
+4,Diabete Mellitus
+5,Diabetes
+6,Hypertensive Disease
+7,Type 2 Diabetes
+8,Medication Adherence
+9,"Diabetes Mellitus, Non-Insulin-Dependent"
+10,Arterial Hypertension
+11,Diabetes Mellitus
+12,Dyslipidemia Associated With Type II Diabetes Mellitus
+13,"Diabetes Mellitus, Type 2"
+14,Hypertension Arterial
+15,Prevalence of Elevated Blood Pressure in Type-2 Diabetics
+16,Arterial Stiffness
+17,Gestational Diabetes Mellitus
+18,Hypertensive Disorder of Pregnancy
+19,High Blood Pressure
+20,Hypomagnesemia
+21,Hypercholesterolemia
+22,Cardiovascular Diseases
+23,Dyslipidemia
+24,Diabetic Nephropathy
+25,Diabetes Mellitus Type 2 IRC or NIR
+26,Pre-diabetic
+27,Elevated Blood Pressure
+28,"Hypertension, Diabetes Mellitus"
+29,Hypokalemia
+30,Hyponatremia
+31,Preeclampsia
+32,Gestational Hypertension
+33,Gestational Diabetes
+34,Stable Chronic Angina
+35,Cognitive Impairment
+36,Diabetes type2
+37,Type2 Diabetes
+38,Type II Diabetes
+39,Obesity
+40,Dyslipidemias
+41,Pre-hypertension
+42,Stage 2 Hypertension
+43,Depression
+44,Telemedicine
+45,High Blood Sugar
+46,"Diabetes Mellitus, Type 1"
+47,Arthritis
+48,Diabetes Mellitis
+49,Pre Diabetes
+50,COPD
+51,Pre-diabetes
+52,Healthy
+53,Resistant Hypertension
+54,NIDDM
+55,Diabetes Mellitus Type II
+56,HIV/AIDS
+57,Tuberculosis
+58,Overweight/obesity
+59,Type 2 Diabetes Mellitus (T2DM)
+60,Hyperlipidemia
+61,Prediabetes
+62,Proteinuria
+63,Microalbuminuria
+64,Anesthesia
+65,HIV Infections
+66,Albuminuria
+67,"Hypertension, Resistant to Conventional Therapy"
+68,Essential Hypertension
+69,Xerostomia
+70,Sleep
+71,Cancer
+72,Atherosclerosis
+73,Renin Hypertension
+74,Heart Disease
+75,HIV
+76,Morality
+77,Overweight
+78,Hypertension Associated
+79,Type II Diabetes Mellitus
+80,Angina
+81,Overweight and Obesity
+82,Pre-Diabetes
+83,Diabetes Mellitus Type 2
+84,Chronic Kidney Diseases
+85,Cataract
+86,Hyperlipidemias
+87,Cardiovascular Disease
+88,Diabetes Type 2
+89,Glycemia
+90,"Diabetes Mellitus, Type II"
+91,Comorbidities and Coexisting Conditions
+92,Body Weight Changes
+93,Angiotensin/Renin/Aldosterone Hypertension
+94,Type 1 Diabetes
+95,Stable Diabetes Mellitus
+96,Geriatrics
+97,Reducing the Elevated Blood Pressure for Diabetic Hypertensive Patients
+98,Breast Cancer
+99,Impaired Fasting Glucose
+100,Maternal Health
+101,PreDiabetes
+102,Stroke
+103,Type2diabetes
+104,Life Style
+105,Insulin Resistance
+106,PROTEINURIA
+107,Cardiometabolic Risk Factors
+108,Nutrition Security
+109,Chronic Obstructive Pulmonary Disease (COPD
+110,Prematurity
+111,Fetal Growth Restriction
+112,"Renal Insufficiency, Chronic"
+113,Morbid Obesity
+114,Covid19
+115,Nutrition Poor
+116,Insomnia
+117,Hyperlipemia
+118,Healthy Control
+119,Coronary Heart Disease
+120,"Hypertension, Resistant"
+121,Renal Denervation Therapy
+122,"Hypertension,Essential"
+123,Medication Understanding
+124,Mental Stress
+125,Metabolic Syndrome
+126,Endothelial Function
+127,Kidney Disease
+128,Blood Disease
+129,Abdominal Obesity
+130,Cardiac Arrhythmia
+131,Osteoporosis
+132,Osteoarthritis
+133,Hypertension in Type 2 Diabetes
+134,Vascular Stiffness
+135,Systolic Hypertension
+136,Endothelial Dysfunction
+137,Hyperlipidemia; Mixed
+138,Overweight or Obesity
+139,Prediabetes or Diabetes
+140,Prehypertension (elevated Blood Pressure) or Hypertension
+141,Resistance Training
+142,"Hypertension, Systolic"
+143,Cancer Survivor
+144,Hypertension in Pregnancy
+145,Dysglycemia
+146,Medication Nonadherence
+147,NAFLD
+148,Dyslipoproteinaemia
+149,Dyslipidaemia
+150,Nephropathy
+151,Pollution; Exposure
+152,HTN
+153,"Obesity, Morbid"
+154,Coronary Artery Disease
+155,Heart Failure
+156,Dietary Intervention
+157,Chronic Obstructive Pulmonary Disease
+158,Congestive Heart Failure
+159,Myasthenia Gravis
+160,Hypertension (Without Type 2 Diabetes Mellitus)
+161,Diabetic Kidney Disease
+162,Heart Diseases
+163,Coronary Disease
+164,"Diabetes Mellitus, Non-insulin Dependent"
+165,Glaucoma
+166,Vitamin D Deficiency
+167,Retinopathy
+168,Pregnancy
+169,Essential Hypertension Complicated by Type 2 Diabetes Mellitus
+170,Ischemic Heart Disease
+171,High Cholesterol
+172,Atrium; Fibrillation
+173,Asthma
+174,Nocturnal Hypertension
+175,T2DM (Type 2 Diabetes Mellitus)
+176,Smoking
+177,Elevated Cholesterol
+178,Multiple Chronic Conditions；Diabetes；Hypertension
+179,Atrial Fibrillation
+180,Chronic Kidney Disease
+181,Diabetes Mellitus in Pregnancy
+182,Ischemic Stroke
+183,Obesity (BMI > 35) and Diabetes Mellitus
+184,Obesity (BMI > 35) and High Blood Pressure
+185,Obesity (BMI > 35) and Dyslipemia
+186,Diabetes Mellitus Type 2 in Obese
+187,Diabetes Mellitus Non-insulin-dependent
+188,"Hypertension, Pulmonary"
+189,Diabetic Nephropathies
+190,Lymphoproliferative Disease
+191,Total Knee Replacement
+192,Renal Failure
+193,Cardiovascular Risk Factor
+194,Elevated LDL Cholesterol
+195,Hypertension Complicated With Type 2 Diabetes
+196,Walking
+197,Chinese Square Dancing
+198,Sleep Apnea
+199,"Diet, Healthy"
+200,Anxiety Disorders
+201,"Hepatitis C, Acute"
+202,Obese
+203,Weight
+204,Adherence
+205,Respiratory Insufficiency
+206,"Pulmonary Disease, Chronic Obstructive"
+207,"Stroke, Ischemic"
+208,Type2 Diabetes Mellitus
+209,Arteriosclerosis
+210,Lipid Metabolism Disorders
+211,Depressive Disorder
+212,Pre-Eclampsia
+213,Chronic Hypertension in Obstetric Context
+214,Childhood Cancer
+215,Gestational Diabetes Mellitus (GDM)
+216,Pregnancy Induced Hypertension (PIH)
+217,Anemia
+218,Vascular Diseases
+219,"Diabetes-Mellitus, Non-Insulin Dependent"
+220,Steatohepatitis
+221,Inflammation
+222,Tobacco Smoking
+223,Tobacco Dependence
+224,Food Insecurity
+225,Mood Disorders
+226,Preventive Behaviors
+227,"Cancer, Breast"
+228,Cancer Prostate
+229,Congenital Heart Disease
+230,Peripheral Arterial Disease
+231,Vascular Disease
+232,Preterm Delivery
+233,Prescribing Decisions
+234,Multimorbidity
+235,Coronary Atherosclerosis
+236,Coronary Arteriosclerosis
+237,Upper Respiratory Infection
+238,Constipation
+239,Pain
+240,Malaria Infection
+241,Obstructive Sleep Apnea
+242,Preterm Birth
+243,Diabetic Retinopathy
+244,TIA
+245,Anemia of Pregnancy
+246,Diabetes Screening
+247,Hyperlipidemia Screening
+248,Hypertension Screening
+249,Coronary Heart Disease (CHD)
+250,Atrial Fibrillation (AF)
+251,Dietary Modification
+252,Health Behavior
+253,Non-proliferative Diabetic Retinopathy
+254,Substance Use
+255,HIV-1-infection
+256,Colo-rectal Cancer
+257,Masked Hypertension
+258,Inappropriate Prescribing
+259,Post COVID-19 Condition
+260,Chronic Disease
+261,"Obesity, Maternal"
+262,"Hypertension, Pregnancy-Induced"
+263,Frailty
+264,Dementia
+265,Inadequate Glycaemic Control
+266,"Diabetes Mellitus, Type I"
+267,Cardiac Disease
+268,Noncommunicable Diseases
+269,Cerebrovascular Accident
+270,Atherosclerotic Plaque
+271,Metabolic Syndrome X
+272,Vision Disability
+273,Diabete Type 2
+274,Post Traumatic Stress Disorder
+275,Depressive Symptoms
+276,Cervical Dysplasia
+277,"Cholesterol, LDL"
+278,Comorbitdity
+279,Childhood Obesity
+280,Arrhythmia Atrial
+281,Alcohol Use Disorder
+282,"Anemia, Diabetes, Kidney Disease, Chronic, Hypertension"
+283,Blood Pressure
+284,Human Immunodeficiency Virus
+285,Hypotension
+286,Metabolic Diseases
+287,Respiratory Diseases
+288,Prediabetic State
+289,Ischemic Attack
+290,Fragility
+291,Infants Small for Gestational Age
+292,Low Back Pain
+293,Ischemic Cardiovascular Disease
+294,"Risk Drinking,Diabetes, Hypertension, Osteoporosis, Infertility"
+295,Cardiovascular Risk Factors
+296,Pregnancy in Diabetes
+297,Hyperglycemia
+298,Cardiac Arrhythmias
+299,Renal Insufficiency
+300,Natriuretic Peptides
+301,"Vascular Complications, Diabetic"
+302,High BP
+303,Diabetes Mellitus Type 2 With Hyperglycemia
+304,Dysbiosis
+305,Heart Failure With Preserved Ejection Fraction
+306,Hypertension (without Type 2 Diabetes Mellitus)
+307,Male
+308,Female
+309,Adult
+310,Cognition
+311,Endothelial Function (reactive Hyperemia)
+312,Oxidative Stress
+313,Diet
+314,Body Composition Measurement
+315,Gut Microbiome
+316,Caucasian Whites
+317,Microvascular Function
+318,Access to Health Services
+319,"Health Disparity, Minority and Vulnerable Populations"
+320,Social Security
+321,BPH
+322,"Economics, Behavioral"
+323,Self-management Behavior
+324,Early Diabetic Nephropathy
+325,Type 2 Diabetes Mellitus With Circulatory Complciation
+326,Postpartum
+327,Anxiety
+328,"Nutrition, Healthy"
+329,Hyperuricemia
+330,"Osteoarthritis, Knee"
+331,Prehypertension
+332,High Risk Pregnancy
+333,Gastrostomy
+334,Weight Loss
+335,Body Weight
+336,Family Medicine
+337,Preventive Medicine
+338,Copd
+339,Chronic Nephropathy
+340,Inadequate or Impaired Respiratory Function
+341,Carotid Atherosclerosis
+342,Non-insulin-dependent Diabetes Mellitus
+343,Regional Blood Flow
+344,Gestational Diabetes Mellitus With Baby Delivered
+345,Colon Cancer
+346,Social Determinants of Health
+347,Primary Care
+348,Postpartum Period
+349,"Hypertension, Pregnancy Induced"
+350,Uncontrolled Hypertension
+351,Cerebrovascular Disease
+352,Chronic Conditions
+353,Chronic Pain
+354,Chronic Obstructive Pulmonary Disease (COPD)
+355,Remote Patient Monitoring
+356,Psychoses
+357,Vasculitis
+358,Coronary Heart Diseases
+359,Fractures
+360,Urinary Incontinence
+361,"Lung Diseases, Obstructive"
+362,COVID-19 Pandemic
+363,Long COVID
+364,Cerebral Infarction
+365,Prevention
+366,Obesity and Type 2 Diabetes
+367,Hyperkalemia
+368,"Diabetes Mellitus, Adult-Onset"
+369,Post Coronary Artery Bypass Grafting
+370,Pediatric Obesity
+371,Quality of Life
+372,Myocardial Infarction
+373,Sedentary Lifestyle
+374,Kidney Dysfunction
+375,Preterm Labor
+376,NICU Infants
+377,"Education, Medical, Continuing"
+378,Practice Patterns
+379,Ambulatory Difficulty
+380,Mobility Limitation
+381,CKD
+382,Thyroid
+383,Physical Inactivity
+384,Alcohol Consumption
+385,Celiac Disease in Children
+386,Impaired Glucose Tolerance
+387,Weight Loss Trial
+388,Cardiometabolic Syndrome
+389,Chronic Diseases
+390,Chronic Renal Failure
+391,Pregnancy Complications
+392,Gout
+393,"Behavior, Smoking"
+394,Post Term Pregnancy
+395,Premature Rupture of Membrane
+396,Fetal Growth Retardation
+397,Oligohydramnios
+398,High Blood Pressure in Pregnancy
+399,Gestational Weight Gain
+400,Left Ventricular Dysfunction
+401,Healthy Aging
+402,Early Gastric Cancer
+403,Disease Management
+404,Primary Healthcare
+405,Peripheral Artery Disease
+406,Amputation
+407,Dietary Habits
+408,Economic Problems
+409,Acute Kidney Injury
+410,Cardio Vascular Disease
+411,Chronic Liver Disease
+412,Osteoarthritis Pain
+413,Myocardial Infarction (MI)
+414,Heart Disease Chronic
+415,Peripheral Vascular Diseases
+416,"Morbidity, Multiple"
+417,"Kidney Disease, Chronic"
+418,Death
+419,Myocardial Ischemia
+420,Metabolic Disease
+421,Sleep Apnea Syndrome
+422,Asthma/COPD With Tobacco Dependence
+423,Tobacco Use Cessation
+424,Cigarette Smoking
+425,Pre-eclampsia
+426,Raised Lipids
+427,Small for Gestational Age
+428,Stillbirth
+429,Overnutrition
+430,Maternal Obesity During Childbirth
+431,Gestational Diabetes Mellitus in Pregnancy
+432,Kidney Insufficiency
+433,Diabetes Complications
+434,Glomerulonephritis
+435,Kidney Diseases
+436,Stress
+437,Airway Obstruction
+438,Erectile Dysfunction
+439,Death From Cardiovascular Disease
+440,Behavioral Lifestyle Change
+441,Social Change
+442,Health-related Social Problems
+443,Mental Health Issue
+444,Self Efficacy
+445,Epilepsy
+446,COVID19
+447,Oxygen Saturation
+448,Mortality
+449,Pharmacist-Patient Relations
+450,Lifestyle
+451,Long COVID-19 Syndrome
+452,COVID 19
+453,Noncommunicable Disease
+454,Drug Use
+455,Schistosomiasis
+456,Retinal Dystrophies
+457,Age-related Macular Degeneration
+458,Traumatic Retinopathy
+459,Toxic Retinopathies
+460,Hyperthermia
+461,Heat; Weather
+462,Aging
+463,Heat Stress
+464,Obstructive Sleep Apnea of Adult
+465,"Gait Disorder, Sensorimotor"
+466,Glucose Intolerance
+467,Vitamin d Deficiency
+468,Medication Safety
+469,Polypharmacy
+470,High Risk Medications
+471,Blood Coagulation
+472,Age Related Macular Degeneration
+473,Self Care
+474,Osteo Arthritis
+475,Joint Replacement
+476,Fibromyalgia
+477,Stable Heart Conditions
+478,Hyperinsulinism
+479,Myocardial Diseases
+480,Maternal Child Health
+481,Cost Effectiveness
+482,Plasma Volume
+483,Chronic Heart Failure
+484,"Obesity, Abdominal"
+485,Ischemia
+486,Cardiac Insufficiency
+487,Severe Mental Disorder
+488,Diabetes Mellitus and Heart Failure
+489,CARDIOMETABOLIC CONDITIONS
+490,Lipoprotein Disorder
+491,Thyroid Diseases
+492,Clotting Disorder
+493,Trauma
+494,Other Disease
+495,"Compliance, Medication"
+496,Lipid Disorder
+497,COVID-19 Pneumonia
+498,MASH
+499,MASLD
+500,MASH With Fibrosis
+501,"Fibrosis, Liver"
+502,Steatosis of Liver
+503,"Pneumonia, Viral"
+504,Obstructive Lung Disease
+505,Retinal Vein Occlusion
+506,Retinal Vascular Disorder
+507,Respiratory Disease
+508,Heart Rhythm Disorders
+509,Cardiac Hypertrophy
+510,Underweight
+511,Infections
+512,Placental Hypoxia
+513,Tobacco Use Disorder
+514,COPD Chronic Obstructive Pulmonary Disease
+515,Diet Habit
+516,Physical Activity
+517,Mental Illness Persistent
+518,Laparoscopic-Roux-en-Y Gastric Bypass
+519,Sleep Disorder
+520,Familial Alzheimer Disease
+521,Transient Ischemic Attack
+522,Lifestyle-related Condition
+523,Healthy Human Volunteers
+524,Lp(A)
+525,Lung Diseases
+526,Macular Edema
+527,Macular Degeneration
+528,Carotid Stenosis
+529,Hypothyroidism
+530,Menopause
+531,Postmenopause
+532,Complication of Transplant
+533,Postpartum Weight Retention
+534,Recruitment
+535,Hepatitis
+536,Metabolic Disorders
+537,"Aortic Aneurysm, Abdominal"
+538,Mass Screening
+539,Arrythmia
+540,Neoplasm
+541,Diet Modification
+542,Smoking Cessation
+543,Labour Dystocia
+544,"Stress, Psychological"
+545,High Triglycerides
+546,High Blood Glucose
+547,Chronic Obstructive Pulmonary Disease Moderate
+548,Pregnancy in Diabetics
+549,Heart Failure，Congestive
+550,Mental Health (Depression)
+551,Gonorrhea
+552,Chlamydia Infections
+553,Hepatitis B
+554,Hepatitis C
+555,Posttransplant Diabetes Mellitus
+556,Acute Graft Rejection
+557,Biopsy Proven Acute Rejection
+558,Antibody Mediated Rejection of Kidney Transplant
+559,"Arterial Hypertension, Chronic Kidney Disease"
+560,Chronic Kidney Disease Due to Hypertension
+561,Chronic Kidney Disease Due to Type 2 Diabetes Mellitus
+562,"Diabetes, Gestational"
+563,Cerebral Arteriosclerosis
+564,Psoriasis
+565,Major Depression
+566,Bariatric Surgery Candidate
+567,Patient Readmission
+568,Diabetes Mellitus Poor Control
+569,Pneumonia
+570,Wound Open
+571,Chronic Venous Hypertension (Idiopathic) With Ulcer
+572,Diabetic Foot Ulcer
+573,Multiple Conditions
+574,"Kidney Failure, Chronic"
+575,"Glomerulonephritis, IGA"
+576,"Hypertension, Renal"
+577,Hyperglycaemia (Diabetic)
+578,"Weight, Body"
+579,Weight Change Trajectory
+580,"Weight Change, Body"
+581,Weight Gain
+582,"Blood Pressure, High"
+583,Social Behavior
+584,"Behavior, Health"
+585,Lifestyle Risk Reduction
+586,"Lifestyle, Healthy"
+587,"Glucose, High Blood"
+588,Insulin Sensitivity
+589,Carotid Artery Diseases
+590,Hypertriglyceridemia
+591,Surgery
+592,Hypotension on Induction
+593,Hypotension During Surgery
+594,Ischaemic Heart Disease
+595,Fasting
+596,"Fasting, Time Restricted"
+597,"Myocardial Infarction, Acute"
+598,Smoking Habit
+599,Pregnancy Induced Hypertension
+600,Cardiovascular Disorders
+601,Sedentary Behavior
+602,Smoking Reduction
+603,Pregnant With Complication
+604,Premature Labor
+605,Cerebrovascular Disorders
+606,Chronic Lifestyle Related Disease
+607,Breastfeeding
+608,Breastfeeding Initiation
+609,Breastfeeding Duration
+610,Birth
+611,Birth Practices
+612,Hyperinsulinemia
+613,"Diabetes Mellitus, Non Insulin Dependent"
+614,The Association Between Sarcopenia and the Strength of Peripheral and Respiratory Muscles in Elderly Individuals
+615,Cardiomyopathies
+616,Cardiotoxicity
+617,Chronic Respiratory Disease
+618,Small for Gestational Age at Delivery
+619,NAFLD - Non-Alcoholic Fatty Liver Disease
+620,Gastroesophageal Reflux Disease
+621,"Adherence, Medication"
+622,Neovascular Glaucoma
+623,Proliferative Diabetic Retinopathy
+624,Polycystic Ovary Syndrome
+625,Transient Ischemic Attacks
+626,"Heart Failure, Congestive"
+627,Glucose Metabolism Disorders
+628,Eye Diseases
+629,Ophthalmic Trauma
+630,Mitochondrial DNA
+631,Middle Age
+632,Mild Cognitive Impairment
+633,Primary Care Patients With Chronic Conditions
+634,Quality Improvement
+635,Pre-term Delivery
+636,Delivery of Small for Gestational Age (SGA) Baby
+637,Birth Defect
+638,Pregnancy Loss
+639,Recurrent Pregnancy Loss
+640,Health Problems in Pregnancy
+641,Open-angle Glaucoma
+642,Catecholamine; Overproduction
+643,Catecholamine; Secretion
+644,Hypertensive Heart Disease
+645,Hypertensive Kidney Disease
+646,Transplant Complication
+647,Kidney Transplant Failure
+648,Age-Related Macular Degeneration (AMD)
+649,Diabetic Retinopathy (DR)
+650,Non-alcoholic Fatty Liver Disease
+651,Diabetic Macular Edema
+652,Age-Related Macular Degeneration
+653,Age-related Maculopathy
+654,Lipid Profile
+655,Glycemic Control
+656,"Arterial Stiffness, Blood Pressure"
+657,Inflammation Biomarkers
+658,Dietary Quality
+659,Waist Circumference
+660,Anthropometrics: Height and Weight
+661,Left Ventricular Hypertrophy
+662,"Glaucoma, Neovascular"
+663,Diabetic Ketoacidosis
+664,Increased Intracranial Pressures
+665,Altered Mental Status
+666,Economic Burden
+667,Urinary Tract Infections
+668,"Pneumonia, Bacterial"
+669,Sarcopenia
+670,Diabetic Retinopathy.
+671,Periodontal Diseases
+672,Pregnancy Preterm
+673,Medication Compliance
+674,Anxiety Depression
+675,Preeclampsia (PE)
+676,Preeclampsia (PE) Risk
+677,Obesity and Obesity-related Medical Conditions
+678,Gestational Complications
+679,Nutrition Disorders
+680,Activities of Daily Living
+681,Accidental Fall
+682,Cognitive Decline
+683,Executive Function
+684,Cognitive Aging
+685,Excessive Weight Gain in Pregnancy as Antepartum Condition
+686,Macular Hole
+687,Kidney Transplant; Complications
+688,"Transplant;Failure,Kidney"
+689,Macular Disease
+690,End Stage Renal Disease
+691,Renal Failure Chronic
+692,Medication Interaction
+693,Retinitis Pigmentosa
+694,"Maculopathy, Age Related"
+695,Macular Dystrophy
+696,Retinal Degeneration
+697,Occlusion Retinal Vein
+698,Venous Hypertension Ulcers
+699,Venous Stasis Ulcer
+700,Venous Ulcer
+701,Venous Insufficiency
+702,Leg Ulcer
+703,Foot Ulcer
+704,Varicose Ulcer
+705,Diabetic Foot
+706,Metabolic Cardiovascular Syndrome
+707,Mental Health Disorder
+708,Malnutrition
+709,Antenatal Care
+710,Family Planning
+711,Depression Disorders
+712,Respiratory Disorders
+713,Sarcopenia in Elderly
+714,High Blood Cholesterol
+715,Obese Patients
+716,"Twin Pregnancy, Antepartum Condition or Complication"
+717,Intrahepatic Cholestasis of Pregnancy
+718,Food Habits
+719,Bone Diseases
+720,Thrombosis
+721,Cervical Cancer
+722,Lung Cancer
+723,Colorectal Cancer
+724,Endometrial Cancer
+725,Ovarian Cancer
+726,Reproductive Disorder
+727,Angina Pectoris
+728,"Obesity, Visceral"
+729,Central Obesity
+730,Visceral Obesity
+731,Atherosclerosis Occlusive Disease
+732,Heart Failure With Reduced Ejection Fraction
+733,Obstructive Pulmonary Disease
+734,Nonalcoholic Fatty Liver Disease
+735,Adverse Pregnancy Outcomes
+736,Pregnancy Outcomes
+737,Mother-Infant Interaction
+738,Child Development
+739,Vascular Function
+740,Exercise Training
+741,Cholesterol
+742,"Depression, Postpartum"
+743,Implementation Science
+744,Virtual Care
+745,Central Serous Chorioretinopathy
+746,"Glaucoma, Suspect"
+747,Endocrine System Diseases
+748,"Osteoarthritis, Hip"
+749,CHF
+750,Multiple Sclerosis
+751,Fever of Unknown Origin
+752,Deep Vein Thrombosis
+753,Bipolar Disorder
+754,Schizophrenia
+755,"Obesity, Primary"
+756,Gastro-Intestinal Disorder
+757,GERD
+758,Gastroesophageal Reflux
+759,Musculoskeletal Pain Disorder
+760,Hypertensive Retinopathy
+761,Retinal Artery Occlusion
+762,Coronary Arterial Disease (CAD)
+763,TIA (Transient Ischemic Attack)
+764,Refractive Errors
+765,Vision Impairment and Blindness
+766,Stroke (CVA) or TIA
+767,Urinary Tract Infection
+768,OSA
+769,Acute Otitis Media
+770,Leukocytosis
+771,Iron Deficient Anemia
+772,Healthy Volunteers
+773,"Depression, Anxiety"
+774,Conditions
+775,Renal and Urinary Disorders
+776,Fever
+777,Bronchitis
+778,"Asthma, Chronic Obstructive Pulmonary Disease (COPD)"
+779,Pancreatitis
+780,Pancreatic Neoplasms
+781,"Hypertension, Portal"
+782,Respiratory Failure
+783,Chronic Lung Disease
+784,Diabetes and Heart Failure
+785,Dilated Cardiomyopathy
+786,Renal Artery Stenosis
+787,Pulmonary Hypertension
+788,High-Risk Pregnancy
+789,Hyperuricemia or Gout
+790,"Hyperuricemia, Gout"
+791,Obesity/Epidemiology
+792,Visceral Fat
+793,Chronic Kidney Disease(CKD)
+794,Hepatic Steatosis
+795,Insulin Sensitivity/Resistance
+796,Chronic Glomerulonephritis
+797,Cystic Kidney Diseases
+798,Polycystic Kidney
+799,Nephronophthisis
+800,Cortical Cystic Disease
+801,Cystic Diseases
+802,Tuberous Sclerosis
+803,Treatment Adherence
+804,Treatment Adherence and Compliance
+805,Back Pain
+806,Rheumatoid Arthritis
+807,Prostate Cancer
+808,Urologic Cancer
+809,Urologic Diseases
+810,Bladder Cancer
+811,Alcoholism
+812,Renal Cancer
+813,Testis Cancer
+814,Thyroid Disease Pregnancy
+815,Anemia in Pregnancy
+816,"Complications, Pregnancy"
+817,Obstetric Labor Complications
+818,Allergic Disorder
+819,Immune System Diseases
+820,Neurodevelopmental Disorders
+821,HIV Metabolic Cardiovascular Syndrome
+822,HIV Lipodystrophy
+823,HIV Metabolic Syndromes
+824,Frail
+825,"Osteoporosis, Osteopenia"
+826,Choroidal Neovascularization
+827,Healthy Lifestyle
+828,Home Environment Related Disease
+829,Cardiometabolic Disease
+830,Systemic Inflammatory Response
+831,Gut Microbiota
+832,Retinal Detachment
+833,Vascular Inflammation
+834,SARS-CoV-2 Infection
+835,Cardiac Event
+836,Pregnancy Related
+837,Pregnancy Disease
+838,ECG Electrode Site Reaction
+839,Fetal Complications
+840,Hearing Impairment
+841,Breast Cancer Early Stage Breast Cancer (Stage 1-3)
+842,Prostate Cancer (Adenocarcinoma)
+843,"Hyperlipidemia (E.G., Hypercholesterolemia)"
+844,Birth Weight
+845,Large for Gestational Age at Delivery (Macrosomia)
+846,Congenital Malformation
+847,Spontaneous Abortion
+848,Fetal Death
+849,Birth Defects
+850,Low Birth Weight
+851,Pregnancy With Medical Condition (Non-Specific)
+852,Glaucoma Suspect
+853,Ocular Hypertension
+854,Branch Retinal Vein Occlusion
+855,Branch Retinal Arterial Occlusion
+856,Central Retinal Vein Occlusion
+857,Central Retinal Artery Occlusion
+858,Epi-retinal Membrane
+859,Drusen
+860,Loss of Vision
+861,Non-Alcoholic Fatty Liver Disease
+862,Genetic Predisposition
+863,Risk Behavior
+864,Bone Fracture
+865,Tooth Diseases
+866,Birth Disorder
+867,Mental Disorder
+868,Congenital Disorders
+869,Raynaud Disease
+870,Raynaud Phenomenon
+871,Hand and Arm Vibration Syndrome
+872,Parkinson Disease
+873,Autonomic Neuropathy
+874,Autonomic Imbalance
+875,Renal Pelvis Cancer
+876,Restless Legs Syndrome
+877,Neuropathic Pain
+878,Chronic Pancreatitis
+879,Pancreatic Cancer
+880,Renal Cell Carcinoma
+881,"Healthy Obesity, Metabolically"
+882,Heart Disease Risk Factors
+883,Retinal Disease
+884,Retinal Dystrophy
+885,Retinal Edema
+886,Retinal Neovascularization
+887,Uveitis
+888,Optic Nerve Diseases
+889,Motivation for Physical Activity
+890,"Sleep Apnea, Obstructive"
+891,Hyperdiploid
+892,"Fatigue Syndrome, Chronic"
+893,Insomnia Chronic
+894,"Compliance, Patient"
+895,Health Impairment
+896,Cerebral Vascular Disease
+897,Active Smoker
+898,Prior DVT/PE
+899,Preterm Birth Complication
+900,Preterm Premature Rupture of Membrane
+901,HELLP
+902,Intrauterine Growth Restriction
+903,Impact of Health Information Exchange on Patient Care
+904,"(Focus on Diabetes, Asthma, Hypertension, CHF, COPD, CAD,"
+905,"Gastroenteritis, Seizures, and Bacterial Pneumonia)"
+906,HbA1c
+907,Metabolomics
+908,"Alcohol Use, Unspecified"
+909,Poor Diet
+910,Cardiac Death
+911,High Risk Hypertensive Patients
+912,Cerebral Hemorrhage
+913,Anticoagulant-induced Bleeding
+914,Cerebral Vascular Disorder
+915,Brain Disorder
+916,Hemorrhage
+917,Intracranial Hemorrhages
+918,Central Nervous System Diseases
+919,Diastolic Dysfunction
+920,Cognition Disorder
+921,Non-alcoholic Fatty Liver Disease (NAFLD)
+922,Kidney Injury
+923,Family History of Coronary Artery Disease
+924,Family History of Peripheral Artery Disease
+925,Family History of Cerebrovascular Disease
+926,Acute Cellular Graft Rejection
+927,Liver Transplant Rejection
+928,NASH
+929,NASH - Nonalcoholic Steatohepatitis
+930,Hepatocellular Carcinoma
+931,Other Associated Comorbidities
+932,Traumatic Optic Neuropathy
+933,Optic Atrophy
+934,Insulin Tolerance
+935,Multi-morbidity
+936,Non-communicable Diseases
+937,Heart Failure Preserved Ejection Fraction
+938,Cholesterol; Lipidosis
+939,Adiposity
+940,Intervention
+941,Control Group
+942,Intervention Study
+943,Inflammatory Bowel Diseases
+944,Melanoma
+945,Endometriosis
+946,Thyroid Cancer
+947,Crohn Disease
+948,Chronic Obstructive Lung Disease
+949,Irritable Bowel Syndrome
+950,Problem Drinking
+951,Substance Use Disorder
+952,High Cholesterol/Hyperlipidemia
+953,Pulmonary Embolism
+954,Heart Attack
+955,Childbirth
+956,Health Status
+957,Physical Fitness
+958,Metabolism
+959,"Diabetes Mellitus, Gestational"
+960,Body Composition
+961,Pain Threshold
+962,Biomechanics
+963,Pelvic Floor Disorders
+964,Cognitive Function
+965,Chronic Condition
+966,Corneal Dystrophy
+967,Keratoconus
+968,Dry Eye
+969,Healthy Individuals
+970,Fabry Disease
+971,Alzheimer Disease
+972,Limbal Insufficiency
+973,Phlyctenulosis
+974,Ocular Rosacea
+975,Graft Versus Host Disease in Eye
+976,Dry Eye Syndrome
+977,Psychological Stress
+978,Physiological Stress
+979,Coping Behavior
+980,Oral Lichen Planus
+981,Thyroid Disease
+982,Pupil Constriction
+983,Iris Floppiness
+984,Iris Prolapsus From the Wound
+985,Cerebral Stroke
+986,"Thrombosis, Deep Vein"
+987,Systemic Lupus Erythematosus
+988,Behavioral Symptoms
+989,"Chronic Conditions, Multiple"
+990,Bronchiectasis
+991,Peripheral Vascular Disease
+992,Fatigue
+993,Liver Diseases
+994,Medication Monitoring
+995,Lung Embolism
+996,Acute Coronary Syndrome
+997,Diarrhea
+998,Sexually Transmitted Diseases
+999,General Check-up
+1000,Cancer of Prostate
+1001,Cancer Colorectal
+1002,"Cancer, Endometrial"
+1003,Cancer of Head and Neck
+1004,Non Small Cell Lung Cancer
+1005,CVD - Cardiovascular Disease
+1006,Cancer of Esophagus
+1007,Cancer of Liver
+1008,"Cancer, Renal Cell"
+1009,Cancer of Pancreas
+1010,Cancer Ovaries
+1011,Intrauterine Growth Restriction (IUGR)
+1012,Perinatal Asphyxia
+1013,Neonatal Sepsis
+1014,Respiratory Distress Syndrome (RDS)
+1015,Neonatal Jaundice
+1016,Congenital Malformations
+1017,Neonatal Hypoglycemia
+1018,Placental Abruption
+1019,Preterm Premature Rupture of Membranes (PPROM)
+1020,Incidence and Types of Systemic Reactions Occurring After Spinal Steroid Injection in a Large Population
+1021,Gout Flare
+1022,Hypertensive Urgency
+1023,Atrial Fibrillation Rapid
+1024,Anticoagulation
+1025,Diabetes and Its Complications
+1026,End of Life/Desires Only Medical Management
+1027,Hemodialysis
+1028,Pathologic Myopia
+1029,Epiretinal Membrane
+1030,Macular Holes
+1031,Nonexudative Age-related Macular Degeneration
+1032,Exudative Age Related Macular Degeneration
+1033,Suspect Glaucoma
+1034,Panic Attack
+1035,POTS
+1036,Inappropriate Sinus Tachycardia
+1037,Acute Coronary Syndrome (ACS)
+1038,Acute Myocardial Infarction (AMI)
+1039,Cerebrovascular Disease (CVD)
+1040,Transient Ischemic Attack (TIA)
+1041,Systolic Heart Failure
+1042,Diastolic Heart Failure
+1043,Chronic Fatigue Syndrome
+1044,Syncope
+1045,Vasovagal Syncope
+1046,Haemophilia
+1047,Primary Prevention
+1048,"Risk Factor, Cardiovascular"
+1049,Chronic Kidney Disease (CKD)
+1050,Unstable Angina
+1051,Coronary Artery Disease (CAD)
+1052,Claudication
+1053,Allergic Rhinitis
+1054,Benign Prostatic Hypertrophy
+1055,Bursitis
+1056,Esophageal Reflux
+1057,Osteoporosis (Senile)
+1058,Shoulder Pain
+1059,Sinusitis
+1060,Symptomatic Menopause
+1061,Vaginitis
+1062,Attention Deficit Disorder With Hyperactivity
+1063,Hemophilia
+1064,Hyperthyroidism
+1065,Osteopenia
+1066,Sickle Cell Disease
+1067,Non-communicable Diseases (NCDs)
+1068,Study Focus: 30-day Rehospitalizations Among At-risk Older Adults Randomized to a Social Work-driven Care Transitions Intervention
+1069,Subclinical Hypercortisolism
+1070,Cushing Syndrome
+1071,Adrenal Neoplasm
+1072,COVID-19
+1073,"Obesity, Childhood"
+1074,"Behavior, Eating"
+1075,Hiv
+1076,AIDS
+1077,IBD
+1078,IBS
+1079,Lupus Erythematosus
+1080,PCOS
+1081,Neurological Disorder
+1082,POTS - Postural Orthostatic Tachycardia Syndrome
+1083,MND (Motor Neurone DIsease)
+1084,Cystic Fibrosis
+1085,Migraine
+1086,Spondylitis
+1087,Celiac Disease
+1088,Hidradenitis Suppurativa
+1089,Eczema
+1090,ME/CFS
+1091,In Need of a Pap Smear (Cervical Cancer Screening)
+1092,In Need of a Blood Pressure Check (Hypertension Screening)
+1093,In Need of a Cholesterol Test (Lipid Disorder Screening)
+1094,In Need of a Fasting Plasma Glucose Test (Diabetes)
+1095,Chronic Non-communicable Disease
+1096,Flow-mediated Dilation
+1097,Cardiovascular Health
+1098,Self-management
+1099,Breast Cancer Risk
+1100,Lung Cancers
+1101,Hypertensive Ischemic Leg Ulcer
+1102,Calciphylaxis
+1103,Healthy Population
+1104,Households
+1105,"Survey, Family Life"
+1106,Heart Failure With Preserved Ejection Fraction (HFPEF)
+1107,Atrial Fibrillation Paroxysmal
+1108,Food Addiction
+1109,Musculoskeletal Pain
+1110,Chronic Bronchitis
+1111,Ulcer
+1112,Irritable Bowel
+1113,Crohn's Disease
+1114,Ulcerative Colitis
+1115,Diverticulosis
+1116,Chronic Hepatitis
+1117,Thyroid Disorder
+1118,Urinary Tract Problem
+1119,Alzheimer's Disease
+1120,Valvular Heart Disease
+1121,Pyelonephritis
+1122,Acute Renal Failure
+1123,Viral Hepatitis
+1124,Alcoholic Hepatitis
+1125,Cirrhosis
+1126,Emphysema
+1127,Inflammatory Bowel Disease
+1128,Diverticulitis
+1129,Peptic Ulcer Disease
+1130,Cholecystitis
+1131,Malabsorption Disorders
+1132,Celiac Sprue
+1133,Hypercortisolism
+1134,Acne Vulgaris
+1135,Prostatic Hyperplasia
+1136,Cough
+1137,Headache
+1138,Influenza
+1139,Sleep Initiation and Maintenance Disorders
+1140,Migraine Disorders
+1141,Senile Osteoporosis
+1142,Vertigo
+1143,Cushing's Syndrome
+1144,Postpartum Infection
+1145,Ankylosing Spondylitis
+1146,Juvenile Idiopathic Arthritis
+1147,Myositis
+1148,Psoriatic Arthritis
+1149,Scleroderma
+1150,Dermatomyositis
+1151,Polymyositis
+1152,Axial Spondyloarthritis
+1153,Diffuse Idiopathic Skeletal Hyperostosis
+1154,Polymyalgia Rheumatica
+1155,Giant Cell Arteritis
+1156,Temporal Arteritis
+1157,Wegener
+1158,Relapsing Polychondritis
+1159,Undifferentiated Connective Tissue Disease
+1160,Spinal Cord Injuries
+1161,Amyotrophic Lateral Sclerosis
+1162,Ataxia
+1163,Bell Palsy
+1164,Brain Tumor
+1165,Cerebral Aneurysm
+1166,Guillain-Barre Syndrome
+1167,Head Injury
+1168,Hydrocephalus
+1169,Lumbar Disc Disease
+1170,Meningitis
+1171,Muscular Dystrophy
+1172,Neurocutaneous Syndromes
+1173,Cluster Headache
+1174,Tension-Type Headache
+1175,Alopecia
+1176,Chronic Inflammation
+1177,Valve Heart Disease
+1178,"Organic, Including Symptomatic, Mental Disorders"
+1179,Mood [Affective] Disorders
+1180,"Neurotic, Stress-related and Somatoform Disorders"
+1181,Eating Disorder
+1182,Disorders of Adult Personality and Behavior
+1183,Mental Retardation
+1184,Disorder of Psychological Development
+1185,Behavioural Disorder
+1186,Peripheral Occlusive Disease
+1187,Chronic Pulmonary Disease
+1188,Allergy
+1189,Chronic Gastritis
+1190,Diverticular Disease of Large Intestine
+1191,Prostate Disorders
+1192,Connective Tissue Disorder
+1193,Vision Disorders
+1194,Hearing Disorders
+1195,Neuropathy
+1196,Adrenocortical Carcinoma
+1197,Amyotrophic Lateral Sclerosis (ALS)
+1198,"Angina, Stable"
+1199,Cancer Brain
+1200,Cancer Colon
+1201,"Cancer, Lung"
+1202,"Cancer, Ovarian"
+1203,Cancer Skin
+1204,Throat Cancer
+1205,Lymphoma
+1206,"Cancer, Thyroid"
+1207,"Cancer, Other"
+1208,Cerebral Palsy
+1209,Deafness
+1210,Fibroids
+1211,Irritable Bowel Syndrome (IBS)
+1212,Infertility
+1213,Lyme Disease
+1214,Multiple Allergies
+1215,Ovarian Cysts
+1216,Phantom Limb Pain
+1217,Post Traumatic Stress Disorder (PTSD)
+1218,Sjogrens Disease
+1219,Spinal Cord Injury
+1220,Spinal Stenosis
+1221,Tension Headache
+1222,Tinnitus
+1223,Non-significant Coronary Artery Disease
+1224,Mild Stenosis
+1225,Vascular Irregularities
